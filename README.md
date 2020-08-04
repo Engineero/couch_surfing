@@ -17,8 +17,8 @@ the environment and install needed packages.
 
 Finally, navigate to this folder and run Jupyter:
 
-   $ cd /path/to/this/folder
-   $ jupyter notebook
+    $ cd /path/to/this/folder
+    $ jupyter notebook
 
 This will open a web browser with a file explorer. From the browser, you can
 select the Jupyter notebook in this folder to open it and run. See Jupyter's
